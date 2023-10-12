@@ -1,0 +1,246 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400;0,700;1,400;1,700&family=Kumbh+Sans:wght@400;700&display=swap');
+
+@media screen and (max-width: 834px) {
+   nav {
+      width: 689px;
+      height: 56px;
+      margin-left: 39px;
+      margin-right: 40px;
+      gap: 389px;
+      margin: 0 auto;
+      margin-top: 40px;
+
+   }
+
+   .button {
+      width: 219px;
+      height: 56px;
+      border-radius: 6px;
+      border: 1px solid var(--Dark-Blue, #172339);
+      color: var(--Dark-Blue, #172339);
+      font-family: Epilogue;
+      font-size: 16px;
+      font-weight: 700;
+      line-height: 32px;
+      letter-spacing: -0.16px;
+   }
+
+   .first {
+      width: 689px;
+      height: 482px;
+      margin-left: 55px;
+      margin-right: 40px;
+
+   }
+
+   .head {
+      width: 500px; 
+      height: 129px;
+   }
+
+   .rick {
+      color: #172339;
+      font-family: Epilogue;
+      font-size: 56px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 64px;
+      letter-spacing: -0.778px;
+   }
+
+   .rick1 {
+      color: #172339;
+      font-family: Epilogue;
+      font-size: 56px;
+      font-weight: 700;
+      line-height: 64px;
+      letter-spacing: -0.778px;
+   }
+
+   .para {
+      width: 350px;
+      height: 84px;
+      color: var(--Grey, #49566D);
+      font-family: Epilogue;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 28px;
+      letter-spacing: 0.089px;
+   }
+
+   .button1 {
+      width: 256px;
+      height: 61px;
+      border-radius: 6px;
+      background: var(--Dark-Blue, #172339);
+      margin-top: 40px;
+   }
+
+   .hero {
+      left: 350px;
+      margin-top: -459px;
+   }
+
+   .hero img {
+      width: 281px;
+      height: 482px;
+      border-radius: 15px;
+
+   }
+
+   .line1 {
+      margin-left: 220px;
+      margin-right: 275px;
+
+   }
+
+   .line1 img {
+      width: 231px;
+      height: 29px;
+
+   }
+
+   aside {
+      margin-left: 1px;
+      margin-right: 40px;
+      margin-top: 88px;
+      width: 689px;
+      height: 83px;
+      display: flex;
+      margin-bottom: 92px;
+   }
+
+   .socials {
+      width: 223px;
+      height: 56px;
+      color: var(--Dark-Blue, #172339);
+      text-align: center;
+      font-family: Epilogue;
+      font-size: 48px;
+      font-weight: 700;
+      line-height: 56px;
+      gap: 10px;
+   }
+
+   .dis {
+      width: 223px;
+      height: 26px;
+      color: var(--Grey, #49566D);
+      text-align: center;
+      font-family: Epilogue;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 26px;
+      letter-spacing: 2.5px;
+   }
+
+   .middle {
+      width: 689px;
+      height: 684px;
+      border-radius: 15px;
+      margin-left: 39px;
+      margin-right: 40px;
+      margin: 0 auto;
+      margin-top: 373px;
+   }
+
+   .man {
+      width: 689px;
+      height: 402px;
+      margin-left: 39px;
+      margin-right: 40px;
+      margin: 0 auto;
+      margin-top: -178px;
+   }
+
+   .man img {
+      width: 252px;
+      height: 402px;
+      margin-left: 228px;
+      margin-right: 209px;
+
+   }
+
+   .content {
+      margin-left: 58px;
+      margin-right: 58px;
+      margin-bottom: 64px;
+      width: 573px;
+      height: 282px;
+      margin-top: 338px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+   }
+   .matt{
+      width: 573px;
+      height: 48px;
+      text-align: center;
+      margin-left: 58px;
+      margin-right: 58px; 
+       
+   }
+
+   .mani {
+      color: #FAF8F6;
+      text-align: center;
+      font-family: Epilogue;
+      font-size: 40px;
+      font-weight: 400;
+      line-height: 48px;
+      letter-spacing: -0.417px;
+   }
+
+   .mini {
+      color: #FAF8F6;
+      font-family: Epilogue;
+      font-size: 40px;
+      font-weight: 700;
+      line-height: 48px;
+      letter-spacing: -0.417px;
+   }
+
+   .para1 {
+      text-align: center;
+      width: 573px;
+      height: 96px;
+      margin-top: 40px;
+   }
+
+   .name {
+      /* width: 165px; */
+      height: 32px;
+      text-align: center;
+      margin-top: 40px;
+   }
+
+   .position {
+      text-align: center;
+   }
+
+
+   footer {
+      width: 830px;
+      height: 640px;
+      
+   }
+
+   .det {
+      width: 689px;
+      height: 32px;
+      margin-left: 39px;
+      margin-right: 40px;
+      margin-bottom: 72px;
+      margin: 0 auto;
+      margin-top: 536px;
+   
+   }
+   .line2{
+      margin-left: 320px;
+      margin-right: 320px;
+      margin-top: 261px;
+      margin-bottom: 383px;
+   }
+
+}
